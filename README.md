@@ -1,24 +1,20 @@
-# 💫 About Me:
+# Hi there 👋, I'm Devesh Sharma
+**Generative AI Engineer | Python Sorcerer | LLM Wrangler**
 
-## Hi there 👋, I'm Devesh Sharma<br>
-**Generative AI Engineer | Python Backend Developer | Systems Architect**<br>
-<br>I'm a software engineer who specializes in taking Generative AI out of the sandbox and into secure, highly observable production environments. I build low-latency backend systems, state-managed AI agents, and robust RAG pipelines—mostly for enterprise banking clients, but I love hacking on smart microservices in my free time.<br>
-<br>My engineering philosophy: **Don't pass everything to an LLM if a deterministic rule can do it faster, cheaper, and with 100% accuracy.**
+I take Generative AI out of the sandbox and force it to do actual, reliable work in production environments. I specialize in building low-latency backend systems, state-managed AI agents, and robust RAG pipelines. 
 
-### 🔭 What I'm currently working on:<br>
-**Enterprise Agentic Workflows:** Orchestrating multi-agent systems using `LangGraph` and `LangChain` to solve complex financial use cases.<br>
-***AI Observability:** Instrumenting deep traces across LLM executions and backend logic using `OpenTelemetry` and the `LGTM` stack.<br>*
+My engineering philosophy: **Never pass a request to an LLM if a simple Regex and an `if/else` statement can do it faster, cheaper, and with 100% accuracy.**
 
-### 🛠️ My Tech Stack:<br>
-**AI/ML:** LangGraph, LangChain, LLaMA (Local Quantization), OpenAI, Gemini, RAG, MCP<br>
-**Backend:** Python, FastAPI, Flask, Streamlit<br>
-**Data & Vector Stores:** FAISS, PgVector, Chroma, MongoDB, Pandas, NumPy<br>
-**DevOps & Cloud:** Azure AI Foundry, AWS, Docker, Ansible, GitHub Actions<br>
-**Security & Auth:** OAuth2 (OBO), Azure AD, JWT, RBAC<br><br>
+---
 
-### 🌱 What I'm learning/exploring next:<br>
-* Advanced AI Evals (Evaluating non-deterministic agent outputs systematically).<br>
- * High-concurrency async optimizations in Python.<br>
+- 🔭 **I’m currently working on:** Orchestrating multi-agent systems with `LangGraph` and building hybrid AI tools like [InboxArchitect](#) to organize my life.
+- 🌱 **I’m currently learning:** The dark arts of AI Evaluation frameworks (Evals) and high-concurrency async Python.
+- 👯 **I’m looking to collaborate on:** Open-source GenAI tools, local LLM quantization (Ollama/LLaMA), or any project that prevents AI from hallucinating confidently.
+- 🤔 **I’m looking for help with:** Convincing non-technical people that "AI Engineer" does not mean I know how to fix their printer.
+- 💬 **Ask me about:** `Python`, `FastAPI`, `LangChain`, Vector Databases, or how to route OpenTelemetry logs to an LGTM stack without crying.
+- 📫 **How to reach me:** Drop a message on LinkedIn or ping `devesh.ds419@outlook.com`.
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I spend more time engineering system prompts and dodging API rate limits than I do engineering my social life.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deveshsharma21) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dvsh_Srma) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dev.devesh) 
